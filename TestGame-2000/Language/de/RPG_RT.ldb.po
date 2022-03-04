@@ -1,12 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-03-04 11:23+0000\n"
+"Last-Translator: Gabriel <gabriel+github@mastergk.de>\n"
+"Language-Team: German <https://translate.easyrpg.org/projects/"
+"easyrpg-testgame/rpg_rtldb/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
+"X-CreatedBy: LcfTrans\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -17,7 +22,7 @@ msgstr ""
 #. ID 2
 msgctxt "actors.title"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 #. ID 1
 msgctxt "actors.skill_name"
@@ -3523,4 +3528,3 @@ msgstr ""
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""
-
