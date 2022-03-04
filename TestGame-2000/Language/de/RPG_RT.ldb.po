@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"PO-Revision-Date: 2022-03-04 11:23+0000\n"
+"PO-Revision-Date: 2022-03-04 11:26+0000\n"
 "Last-Translator: Gabriel <gabriel+github@mastergk.de>\n"
 "Language-Team: German <https://translate.easyrpg.org/projects/"
 "easyrpg-testgame/rpg_rtldb/de/>\n"
@@ -27,7 +27,7 @@ msgstr "Soldat"
 #. ID 1
 msgctxt "actors.skill_name"
 msgid "sorcery"
-msgstr ""
+msgstr "Magie"
 
 #. ID 2
 msgctxt "actors.name"
